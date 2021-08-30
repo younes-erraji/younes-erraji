@@ -4,15 +4,14 @@
 <h3 align="center">
     I'm a passionate Full Stack Developer from Morocco.
     <br />
-     I like to write code, I like to dig into problems and solve them. I also enjoy ui, ux, and design in general.
+     I like to write code, I like to dig into problems and solve them. I also enjoy UI, UX, and Design in general.
 </h3>
-
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[imageshare](https://github.com/YounesErraji/imageshare)**
 
-- 🌱 I’m currently learning **React JS, ASP.NET Core**
+- 🌱 I’m currently learning **React JS, ASP.NET Core, Laravel**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -30,8 +29,8 @@
 
 <p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50px" height="50px" />
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" width="50px" height="50px" />
     <img src="https://img.icons8.com/color/48/000000/javascript.png" width="50px" height="50px" />
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" width="50px" height="50px" />
     <img src="https://img.icons8.com/color/48/000000/html-5.png" width="50px" height="50px" />
     <img src="https://img.icons8.com/color/48/000000/css3.png" width="50px" height="50px" />
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="50px" height="50px" />
@@ -40,7 +39,7 @@
     <img src="https://img.icons8.com/color/50/000000/pug.png" alt="Pug" width="50px" height="50px" />
     <img src="https://img.icons8.com/color/50/000000/sass-avatar.png" alt="Scss" width="50px" height="50px" />
     <img src="https://img.icons8.com/ios/50/000000/jquery.png" alt="JQuery" width="50px" height="50px" />
-    <img src="https://img.icons8.com/clouds/100/000000/github.png" alt="Github" width="50px" height="50px" />
+    <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel" width="50px" height="50px" />
 </p>
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
