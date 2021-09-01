@@ -38,7 +38,7 @@
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50px" height="50px" />
     <img src="https://img.icons8.com/color/50/000000/pug.png" alt="Pug" width="50px" height="50px" />
     <img src="https://img.icons8.com/color/50/000000/sass-avatar.png" alt="Scss" width="50px" height="50px" />
-    <img src="https://img.icons8.com/ios/50/000000/jquery.png" alt="JQuery" width="50px" height="50px" />
+    <img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png" alt="JQuery" width="50px" height="50px" />
     <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel" width="50px" height="50px" />
 </p>
 
