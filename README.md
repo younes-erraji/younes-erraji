@@ -40,6 +40,9 @@
     <img src="https://img.icons8.com/color/50/000000/sass-avatar.png" alt="Scss" width="50px" height="50px" />
     <img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png" alt="JQuery" width="50px" height="50px" />
     <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel" width="50px" height="50px" />
+    <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio" width="50px" height="50px" />
+    <img src="https://img.icons8.com/fluency/48/000000/wordpress.png" alt="Wordpress" width="50px" height="50px" />
+    <img src="https://img.icons8.com/color/48/000000/xamarin.png" alt="Xamarin" width="50px" height="50px" />
 </p>
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
