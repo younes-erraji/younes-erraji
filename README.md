@@ -43,6 +43,7 @@
     <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio" width="50px" height="50px" />
     <img src="https://img.icons8.com/fluency/48/000000/wordpress.png" alt="Wordpress" width="50px" height="50px" />
     <img src="https://img.icons8.com/color/48/000000/xamarin.png" alt="Xamarin" width="50px" height="50px" />
+    <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" width="50px" height="50px" />
 </p>
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
