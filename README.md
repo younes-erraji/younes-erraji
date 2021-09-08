@@ -9,15 +9,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[imageshare](https://github.com/YounesErraji/imageshare)**
+- 🔭 I’m currently working on **[imageshare](https://github.com/YounesErraji/imageshare){:target="_blank"}**
 
 - 🌱 I’m currently learning **React JS, ASP.NET Core, Laravel**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at:
-    - **[My Portfolio](https://YounesErraji.github.io)**
-    - **[Codepen](https://codepen.io/younes-erraji/)**
+    - **[My Portfolio](https://YounesErraji.github.io){:target="_blank"}**
+    - **[Codepen](https://codepen.io/younes-erraji/){:target="_blank"}**
 
 - 📫 How to reach me **younes.erraji8@gmail.com**
 
