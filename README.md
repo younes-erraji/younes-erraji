@@ -81,8 +81,8 @@ Top languages is only a metric of the languages my public code consists of and d
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/younes-erraji/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/youneserraji_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/younes-erraji/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/youneserraji_/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
