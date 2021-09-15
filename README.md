@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **[imageshare](https://github.com/YounesErraji/imageshare)**
 
-- 🌱 I’m currently learning **React JS, ASP.NET Core, Laravel**
+- 🌱 I’m currently learning **Vue JS, ASP.NET Core, Laravel**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -40,12 +40,12 @@
     <img src="https://img.icons8.com/color/50/000000/sass-avatar.png" alt="Scss" width="50px" height="50px" />
     <img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png" alt="JQuery" width="50px" height="50px" />
     <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel" width="50px" height="50px" />
+    
     <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio" width="50px" height="50px" />
-    <img src="https://img.icons8.com/fluency/48/000000/wordpress.png" alt="Wordpress" width="50px" height="50px" />
     <img src="https://img.icons8.com/color/48/000000/xamarin.png" alt="Xamarin" width="50px" height="50px" />
     <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" width="50px" height="50px" />
+    <img src="https://img.icons8.com/fluency/48/000000/wordpress.png" alt="Wordpress" width="50px" height="50px" />
     <img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular.js" width="50px" height="50px" />
-    
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50px" height="50px" />
     <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png" alt="Visual Studio" width="50px" height="50px" />
     <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="Adobe Photoshop" width="50px" height="50px" />
