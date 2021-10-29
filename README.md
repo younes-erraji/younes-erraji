@@ -52,9 +52,9 @@
     <img src="/assets/icons/Languages-Tools/adobe-premiere-pro.png" alt="Adobe Premiere Pro" width="50px" height="50px" />
 </p>
 
-[![Javascript Badge](/assets/icons/Javascript.svg)]
-[![React Badge](/assets/icons/React.svg)]
-[![Nodejs Badge](/assets/icons/Nodejs.svg)]
+[![Javascript Badge](/assets/icons/Javascript.svg)]()
+[![React Badge](/assets/icons/React.svg)]()
+[![Nodejs Badge](/assets/icons/Nodejs.svg)]()
 
 <br/>
 
