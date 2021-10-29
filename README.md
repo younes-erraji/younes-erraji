@@ -1,6 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="/assets/images/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Younes ERRAJI</h1>
+<h1 align="center">Hi <img src="/assets/images/wave.gif" width="30px">, I'm Younes ERRAJI</h1>
 <h3 align="center">
     I'm a passionate Full Stack Developer from Morocco.
     <br />
@@ -53,9 +53,9 @@
     <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png" alt="Adobe Premiere Pro" width="50px" height="50px" />
 </p>
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Javascript Badge](/assets/icons/Javascript.svg](#)
+[![React Badge](/assets/icons/React.svg)](#)
+[![Nodejs Badge](/assets/icons/Nodejs.svg)](#)
 
 <br/>
 
@@ -69,8 +69,8 @@
 ## 📊 My Github Stats
 
 <br/>
-<a href="https://github.com/YounesErraji/github-readme-stats"><img alt="Younes ERRAJI's Github Stats" src="https://github-readme-stats.vercel.app/api?username=younes-erraji&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/YounesErraji/github-readme-stats"><img alt="Younes ERRAJI's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younes-erraji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/younes-erraji/github-readme-stats"><img alt="Younes ERRAJI's Github Stats" src="https://github-readme-stats.vercel.app/api?username=younes-erraji&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/younes-erraji/github-readme-stats"><img alt="Younes ERRAJI's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younes-erraji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 <b>
@@ -88,8 +88,8 @@ Top languages is only a metric of the languages my public code consists of and d
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/younes-erraji/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/youneserraji_/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/younes-erraji/" target="_blank"><img src="/assets/icons/linkedin.png"/></a>
+<a href = "https://www.instagram.com/youneserraji_/" target="_blank"><img src="/assets/icons/instagram.png"/></a>
 
 </p>
 
