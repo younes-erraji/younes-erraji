@@ -28,29 +28,28 @@
 ## 🚀 Languages and Tools:
 
 <p align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50px" height="50px" />
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" width="50px" height="50px" />
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" width="50px" height="50px" />
-    <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" width="50px" height="50px" />
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" width="50px" height="50px" />
-    <img src="https://img.icons8.com/color/48/000000/css3.png" width="50px" height="50px" />
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="50px" height="50px" />
-    <img src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png" alt="SQL Server" width="50px" height="50px" />
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50px" height="50px" />
-    <img src="https://img.icons8.com/color/50/000000/pug.png" alt="Pug" width="50px" height="50px" />
-    <img src="https://img.icons8.com/color/50/000000/sass-avatar.png" alt="Scss" width="50px" height="50px" />
-    <img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png" alt="JQuery" width="50px" height="50px" />
-    <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel" width="50px" height="50px" />
-    
-    <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio" width="50px" height="50px" />
-    <img src="https://img.icons8.com/color/48/000000/xamarin.png" alt="Xamarin" width="50px" height="50px" />
-    <img src="https://img.icons8.com/fluency/48/000000/wordpress.png" alt="Wordpress" width="50px" height="50px" />
-    <img src="https://img.icons8.com/color/50/000000/angularjs.png" alt="Angular.js" width="50px" height="50px" />
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50px" height="50px" />
-    <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png" alt="Visual Studio" width="50px" height="50px" />
-    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="Adobe Photoshop" width="50px" height="50px" />
-    <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png" alt="Adobe Illustrator" width="50px" height="50px" />
-    <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png" alt="Adobe Premiere Pro" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/csharp.svg" alt="C#" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/javascript.png" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/react.png" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/vue-js.png" alt="Vue.js" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/html-5.png" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/css3.png" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/bootstrap.png" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/microsoft-sql-server.png" alt="SQL Server" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/git.png" alt="Git" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/pug.png" alt="Pug" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/sass.png" alt="Scss" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/jquery.png" alt="JQuery" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/laravel.png" alt="Laravel" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/android-studio.png" alt="Android Studio" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/xamarin.png" alt="Xamarin" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/wordpress.png" alt="Wordpress" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/angularjs.png" alt="Angular.js" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/visual-studio-code.png" alt="VS Code" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/visual-studio.png" alt="Visual Studio" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/adobe-photoshop.png" alt="Adobe Photoshop" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/adobe-illustrator.png" alt="Adobe Illustrator" width="50px" height="50px" />
+    <img src="/assets/icons/Languages & Tools/adobe-premiere-pro.png" alt="Adobe Premiere Pro" width="50px" height="50px" />
 </p>
 
 [![Javascript Badge](/assets/icons/Javascript.svg](#)
