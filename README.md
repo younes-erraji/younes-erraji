@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="/assets/images/iXuL1HG.png" height="175px"/></a>
+<a><img width="100%" height="auto" src="/assets/images/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="/assets/images/wave.gif" width="30px">, I'm Younes ERRAJI</h1>
 <h3 align="center">
@@ -59,7 +59,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/younes-erraji/github-readme-streak-stats">
+    <a>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats"
              alt="Younes ERRAJI's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=younes-erraji&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
     </a>
@@ -68,8 +68,8 @@
 ## 📊 My Github Stats
 
 <br/>
-<a href="https://github.com/younes-erraji/github-readme-stats"><img alt="Younes ERRAJI's Github Stats" src="https://github-readme-stats.vercel.app/api?username=younes-erraji&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/younes-erraji/github-readme-stats"><img alt="Younes ERRAJI's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younes-erraji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a><img alt="Younes ERRAJI's Github Stats" src="https://github-readme-stats.vercel.app/api?username=younes-erraji&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a><img alt="Younes ERRAJI's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younes-erraji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 <b>
@@ -80,7 +80,7 @@ Top languages is only a metric of the languages my public code consists of and d
 <br/>
 <br/>
 
-<a href="https://github.com/younes-erraji/github-readme-activity-graph"><img alt="Younes ERRAJI's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=younes-erraji&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a><img alt="Younes ERRAJI's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=younes-erraji&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
@@ -93,7 +93,7 @@ Top languages is only a metric of the languages my public code consists of and d
 </p>
 
 ## ❤ Views and Followers
-<a href="#">
+<a>
     <img src="https://komarev.com/ghpvc/?username=younes-erraji">
 </a>
 <a href="https://github.com/younes-erraji?tab=followers">&nbsp;<img src="https://img.shields.io/github/followers/younes-erraji?label=Followers&style=social" alt="GitHub Badge"></a>
