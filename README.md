@@ -29,12 +29,12 @@
 
 <p align="center">
     <img src="/assets/icons/Languages-Tools/csharp.svg" alt="C#" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/javascript.png" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/react.png" width="50px" height="50px" />
+    <img src="/assets/icons/Languages-Tools/javascript.png" alt="JS" width="50px" height="50px" />
+    <img src="/assets/icons/Languages-Tools/react.png" alt="ReactJS" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/vue-js.png" alt="Vue.js" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/html-5.png" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/css3.png" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/bootstrap.png" width="50px" height="50px" />
+    <img src="/assets/icons/Languages-Tools/html-5.png" alt="HTML" width="50px" height="50px" />
+    <img src="/assets/icons/Languages-Tools/css3.png" alt="CSS" width="50px" height="50px" />
+    <img src="/assets/icons/Languages-Tools/bootstrap.png" alt="Bootstrap" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/microsoft-sql-server.png" alt="SQL Server" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/git.png" alt="Git" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/pug.png" alt="Pug" width="50px" height="50px" />
@@ -52,9 +52,9 @@
     <img src="/assets/icons/Languages-Tools/adobe-premiere-pro.png" alt="Adobe Premiere Pro" width="50px" height="50px" />
 </p>
 
-[![Javascript Badge](/assets/icons/Javascript.svg)]()
-[![React Badge](/assets/icons/React.svg)]()
-[![Nodejs Badge](/assets/icons/Nodejs.svg)]()
+[![Javascript Badge](/assets/icons/Javascript.svg)](#)
+[![React Badge](/assets/icons/React.svg)](#)
+[![Nodejs Badge](/assets/icons/Nodejs.svg)](#)
 
 <br/>
 
