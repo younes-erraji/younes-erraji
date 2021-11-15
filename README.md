@@ -50,6 +50,8 @@
     <img src="/assets/icons/Languages-Tools/adobe-photoshop.png" alt="Adobe Photoshop" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/adobe-illustrator.png" alt="Adobe Illustrator" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/adobe-premiere-pro.png" alt="Adobe Premiere Pro" width="50px" height="50px" />
+    <img src="/assets/icons/Languages-Tools/phpstorm.png" alt="PHPStorm" width="50px" height="50px" />
+    <img src="/assets/icons/Languages-Tools/webstorm.png" alt="WebStorm" width="50px" height="50px" />
 </p>
 
 [![Javascript Badge](/assets/icons/Javascript.svg)](#)
