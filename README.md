@@ -32,6 +32,8 @@
     <img src="/assets/icons/Languages-Tools/javascript.png" alt="JS" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/react.png" alt="ReactJS" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/vue-js.png" alt="Vue.js" width="50px" height="50px" />
+    <img src="/assets/icons/Languages-Tools/typescript.png" alt="Typescript" width="50px" height="50px" />
+    <img src="/assets/icons/Languages-Tools/gulp.png" alt="Gulp" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/html-5.png" alt="HTML" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/css3.png" alt="CSS" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/bootstrap.png" alt="Bootstrap" width="50px" height="50px" />
