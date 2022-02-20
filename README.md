@@ -58,7 +58,6 @@
 
 [![Javascript Badge](/assets/icons/Javascript.svg)](#)
 [![React Badge](/assets/icons/React.svg)](#)
-[![Vue Badge](/assets/icons/vue.js.png)](#)
 [![Nodejs Badge](/assets/icons/Nodejs.svg)](#)
 
 <br/>
