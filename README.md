@@ -19,7 +19,7 @@
     - **[My Portfolio](https://younes-erraji.github.io)**
     - **[Codepen](https://codepen.io/younes-erraji/)**
 
-- 📫 How to reach me **[Mail](younes.erraji8@gmail.com)**
+- 📫 How to reach me **[younes.erraji8@gmail.com](mailto:younes.erraji8@gmail.com)**
 
 - 🤔 I’m looking for internship
 
