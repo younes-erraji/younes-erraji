@@ -1,6 +1,6 @@
 <a><img width="100%" height="auto" src="/assets/images/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="/assets/images/wave.gif" width="30px">, I'm Younes ERRAJI</h1>
+<h1 align="center">Hi <a style="width:50px; height:50px;"><img src="/assets/images/wave.gif" width="50px" height="50px"></a>, I'm Younes ERRAJI</h1>
 <h3 align="center">
     I'm a passionate Full Stack Developer from Morocco.
     <br />
