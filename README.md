@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **[imageshare](https://github.com/younes-erraji/imageshare)**
 
-- 🌱 I’m currently learning **Vue JS, ASP.NET Core, Laravel**
+- 🌱 I’m currently learning **ASP.NET Core, Laravel**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -32,7 +32,7 @@
     <img src="/assets/icons/Languages-Tools/csharp.svg" alt="C#" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/javascript.png" alt="JS" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/react.png" alt="ReactJS" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/vue-js.png" alt="Vue.js" width="50px" height="50px" />
+    <!--<img src="/assets/icons/Languages-Tools/vue-js.png" alt="Vue.js" width="50px" height="50px" />-->
     <img src="/assets/icons/Languages-Tools/typescript.png" alt="Typescript" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/gulp.png" alt="Gulp" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/html-5.png" alt="HTML" width="50px" height="50px" />
@@ -44,17 +44,17 @@
     <img src="/assets/icons/Languages-Tools/sass.png" alt="Scss" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/jquery.png" alt="JQuery" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/laravel.png" alt="Laravel" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/android-studio.png" alt="Android Studio" width="50px" height="50px" />
+    <!--<img src="/assets/icons/Languages-Tools/android-studio.png" alt="Android Studio" width="50px" height="50px" />-->
     <img src="/assets/icons/Languages-Tools/xamarin.png" alt="Xamarin" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/wordpress.png" alt="Wordpress" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/angularjs.png" alt="Angular.js" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/visual-studio-code.png" alt="VS Code" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/visual-studio.png" alt="Visual Studio" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/adobe-photoshop.png" alt="Adobe Photoshop" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/adobe-illustrator.png" alt="Adobe Illustrator" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/adobe-premiere-pro.png" alt="Adobe Premiere Pro" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/phpstorm.png" alt="PHPStorm" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/webstorm.png" alt="WebStorm" width="50px" height="50px" />
+    <!--<img src="/assets/icons/Languages-Tools/wordpress.png" alt="Wordpress" width="50px" height="50px" />-->
+    <!--<img src="/assets/icons/Languages-Tools/angularjs.png" alt="Angular.js" width="50px" height="50px" />-->
+    <!--<img src="/assets/icons/Languages-Tools/visual-studio-code.png" alt="VS Code" width="50px" height="50px" />-->
+    <!--<img src="/assets/icons/Languages-Tools/visual-studio.png" alt="Visual Studio" width="50px" height="50px" />-->
+    <!--<img src="/assets/icons/Languages-Tools/adobe-photoshop.png" alt="Adobe Photoshop" width="50px" height="50px" />-->
+    <!--<img src="/assets/icons/Languages-Tools/adobe-illustrator.png" alt="Adobe Illustrator" width="50px" height="50px" />-->
+    <!--<img src="/assets/icons/Languages-Tools/adobe-premiere-pro.png" alt="Adobe Premiere Pro" width="50px" height="50px" />-->
+    <!--<img src="/assets/icons/Languages-Tools/phpstorm.png" alt="PHPStorm" width="50px" height="50px" />-->
+    <!--<img src="/assets/icons/Languages-Tools/webstorm.png" alt="WebStorm" width="50px" height="50px" />-->
 </p>
 
 [![Javascript Badge](/assets/icons/Javascript.svg)](#)
