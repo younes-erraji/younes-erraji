@@ -93,8 +93,6 @@ Top languages is only a metric of the languages my public code consists of and d
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/younes-erraji/" target="_blank"><img src="/assets/icons/linkedin.png" width="50px" height="50px" /></a>
-<a href = "https://www.instagram.com/younes.erraji_/" target="_blank"><img src="/assets/icons/instagram.png" width="50px" height="50px" /></a>
-<a href = "https://t.me/younes_erraji" target="_blank"><img src="/assets/icons/telegram.svg" width="50px" height="50px" /></a>
 
 </p>
 
