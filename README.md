@@ -85,9 +85,11 @@ Top languages is only a metric of the languages my public code consists of and d
 <br/>
 <br/>
 
-<a><img alt="Younes ERRAJI's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=younes-erraji&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a><img alt="Younes ERRAJI's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=younes-erraji&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+/*
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+*/
 
 <br/>
 
