@@ -34,18 +34,18 @@
     <img src="/assets/icons/Languages-Tools/react.png" alt="ReactJS" width="50px" height="50px" />
     <!--<img src="/assets/icons/Languages-Tools/vue-js.png" alt="Vue.js" width="50px" height="50px" />-->
     <img src="/assets/icons/Languages-Tools/typescript.png" alt="Typescript" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/gulp.png" alt="Gulp" width="50px" height="50px" />
+    <!--<img src="/assets/icons/Languages-Tools/gulp.png" alt="Gulp" width="50px" height="50px" />-->
     <img src="/assets/icons/Languages-Tools/html-5.png" alt="HTML" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/css3.png" alt="CSS" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/bootstrap.png" alt="Bootstrap" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/microsoft-sql-server.png" alt="SQL Server" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/git.png" alt="Git" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/pug.png" alt="Pug" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/sass.png" alt="Scss" width="50px" height="50px" />
+    <!--<img src="/assets/icons/Languages-Tools/pug.png" alt="Pug" width="50px" height="50px" />
+    <img src="/assets/icons/Languages-Tools/sass.png" alt="Scss" width="50px" height="50px" />-->
     <img src="/assets/icons/Languages-Tools/jquery.png" alt="JQuery" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/laravel.png" alt="Laravel" width="50px" height="50px" />
+    <!--<img src="/assets/icons/Languages-Tools/laravel.png" alt="Laravel" width="50px" height="50px" />-->
     <!--<img src="/assets/icons/Languages-Tools/android-studio.png" alt="Android Studio" width="50px" height="50px" />-->
-    <img src="/assets/icons/Languages-Tools/xamarin.png" alt="Xamarin" width="50px" height="50px" />
+    <!--<img src="/assets/icons/Languages-Tools/xamarin.png" alt="Xamarin" width="50px" height="50px" />-->
     <!--<img src="/assets/icons/Languages-Tools/wordpress.png" alt="Wordpress" width="50px" height="50px" />-->
     <!--<img src="/assets/icons/Languages-Tools/angularjs.png" alt="Angular.js" width="50px" height="50px" />-->
     <!--<img src="/assets/icons/Languages-Tools/visual-studio-code.png" alt="VS Code" width="50px" height="50px" />-->
@@ -74,7 +74,10 @@
 
 <br/>
 <p>
-  <a><img alt="Younes ERRAJI's Github Stats" src="https://github-readme-stats.vercel.app/api?username=younes-erraji&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a><img alt="Younes ERRAJI's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younes-erraji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a><img alt="Younes ERRAJI's Github Stats" src="https://github-readme-stats.vercel.app/api?username=younes-erraji&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+<p>
+  <a><img alt="Younes ERRAJI's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younes-erraji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 <br/>
 <b>
