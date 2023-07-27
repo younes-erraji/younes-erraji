@@ -73,10 +73,10 @@
 ## 📊 My Github Stats
 
 <br/>
-<p>
+<p align="center">
   <a><img alt="Younes ERRAJI's Github Stats" src="https://github-readme-stats.vercel.app/api?username=younes-erraji&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
-<p>
+<p align="center">
   <a><img alt="Younes ERRAJI's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younes-erraji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 <br/>
