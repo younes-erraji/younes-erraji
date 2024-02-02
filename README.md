@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi <a style="width:50px; height:50px;"><img src="/assets/images/wave.gif" width="50px" height="50px"></a>, I'm Younes ERRAJI</h1>
 <h3 align="center">
-    I'm a passionate Full Stack Developer from Morocco.
-    <br />
-     I like to write code, I like UI, UX, and Design in general. I also enjoy to dig into problems and solve them.
+    I'm an ASP.NET & React Software Engineer
 </h3>
 
 ## 🙋‍♂️ About Me
