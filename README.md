@@ -68,7 +68,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 Github Stats
 
 <br/>
 <p align="center">
@@ -97,7 +97,9 @@ Top languages is only a metric of the languages my public code consists of and d
 
 ---
 ## LeetCode statistics:
+<p align="center">
 [![Leetcode Stats](https://leetcard.jacoblin.cool/younes-erraji)](https://leetcode.com/younes-erraji)
+</p>
 ----
 
 ## Connect with me:
