@@ -98,7 +98,9 @@ Top languages is only a metric of the languages my public code consists of and d
 ---
 ## LeetCode statistics:
 <p align="center">
-[![Leetcode Stats](https://leetcard.jacoblin.cool/younes-erraji)](https://leetcode.com/younes-erraji)
+     <a href="https://leetcode.com/younes-erraji">
+        <img alt="LeetCode" src="https://leetcard.jacoblin.cool/younes-erraji" />
+    </a>
 </p>
 ----
 
