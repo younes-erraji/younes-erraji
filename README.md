@@ -93,13 +93,13 @@ Top languages is only a metric of the languages my public code consists of and d
 -->
 
 <br/>
+
 ## LeetCode statistics:
 <p align="center">
      <a href="https://leetcode.com/younes-erraji">
         <img alt="LeetCode" src="https://leetcard.jacoblin.cool/younes-erraji" />
     </a>
 </p>
----
 
 ## Connect with me:
 <p align="left">
