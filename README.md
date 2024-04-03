@@ -1,7 +1,7 @@
 <a><img width="100%" height="auto" src="/assets/images/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <a style="width:50px; height:50px;"><img src="/assets/images/wave.gif" width="50px" height="50px"></a>, I'm Younes ERRAJI</h1>
-<h3 align="center">
+<h3 align="center", padding-top=-1000>
     I'm an ASP.NET & React Software Engineer
 </h3>
 
@@ -97,9 +97,7 @@ Top languages is only a metric of the languages my public code consists of and d
 
 ## Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/younes-erraji/" target="_blank"><img src="/assets/icons/linkedin.png" width="50px" height="50px" /></a>
-
+<a href="https://www.linkedin.com/in/younes-erraji/" target="_blank"><img src="/assets/icons/linkedin.png" width="50px" height="50px" /></a>
 </p>
 
 ## ❤ Views and Followers
@@ -107,3 +105,8 @@ Top languages is only a metric of the languages my public code consists of and d
     <img src="https://komarev.com/ghpvc/?username=younes-erraji">
 </a>
 <a href="https://github.com/younes-erraji?tab=followers">&nbsp;<img src="https://img.shields.io/github/followers/younes-erraji?label=Followers&style=social" alt="GitHub Badge"></a>
+
+---
+## LeetCode statistics:
+[![Leetcode Stats](https://leetcard.jacoblin.cool/younes-erraji)](https://leetcode.com/younes-erraji)
+----
