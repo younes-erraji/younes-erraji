@@ -85,7 +85,6 @@
 Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-<br/>
 
 <a><img alt="Younes ERRAJI's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=younes-erraji&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
@@ -94,15 +93,13 @@ Top languages is only a metric of the languages my public code consists of and d
 -->
 
 <br/>
-
----
 ## LeetCode statistics:
 <p align="center">
      <a href="https://leetcode.com/younes-erraji">
         <img alt="LeetCode" src="https://leetcard.jacoblin.cool/younes-erraji" />
     </a>
 </p>
-----
+---
 
 ## Connect with me:
 <p align="left">
