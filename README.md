@@ -95,6 +95,11 @@ Top languages is only a metric of the languages my public code consists of and d
 
 <br/>
 
+---
+## LeetCode statistics:
+[![Leetcode Stats](https://leetcard.jacoblin.cool/younes-erraji)](https://leetcode.com/younes-erraji)
+----
+
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/younes-erraji/" target="_blank"><img src="/assets/icons/linkedin.png" width="50px" height="50px" /></a>
@@ -105,8 +110,3 @@ Top languages is only a metric of the languages my public code consists of and d
     <img src="https://komarev.com/ghpvc/?username=younes-erraji">
 </a>
 <a href="https://github.com/younes-erraji?tab=followers">&nbsp;<img src="https://img.shields.io/github/followers/younes-erraji?label=Followers&style=social" alt="GitHub Badge"></a>
-
----
-## LeetCode statistics:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/younes-erraji)](https://leetcode.com/younes-erraji)
-----
