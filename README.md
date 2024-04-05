@@ -38,8 +38,8 @@
     <img src="/assets/icons/Languages-Tools/bootstrap.png" alt="Bootstrap" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/microsoft-sql-server.png" alt="SQL Server" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/git.png" alt="Git" width="50px" height="50px" />
-    <!--<img src="/assets/icons/Languages-Tools/pug.png" alt="Pug" width="50px" height="50px" />
-    <img src="/assets/icons/Languages-Tools/sass.png" alt="Scss" width="50px" height="50px" />-->
+    <!--<img src="/assets/icons/Languages-Tools/pug.png" alt="Pug" width="50px" height="50px" />-->
+    <img src="/assets/icons/Languages-Tools/sass.png" alt="Scss" width="50px" height="50px" />
     <img src="/assets/icons/Languages-Tools/jquery.png" alt="JQuery" width="50px" height="50px" />
     <!--<img src="/assets/icons/Languages-Tools/laravel.png" alt="Laravel" width="50px" height="50px" />-->
     <!--<img src="/assets/icons/Languages-Tools/android-studio.png" alt="Android Studio" width="50px" height="50px" />-->
@@ -57,10 +57,10 @@
 
 [![Javascript Badge](/assets/icons/Javascript.svg)](#)
 [![React Badge](/assets/icons/React.svg)](#)
+<!--
 [![Nodejs Badge](/assets/icons/Nodejs.svg)](#)
 [![C# Badge](/assets/icons/c%23.svg)](#)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-
+-->
 <br/>
 
 ## 📊 Github Stats
