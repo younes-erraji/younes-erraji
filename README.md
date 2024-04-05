@@ -58,7 +58,7 @@
 [![Javascript Badge](/assets/icons/Javascript.svg)](#)
 [![React Badge](/assets/icons/React.svg)](#)
 [![Nodejs Badge](/assets/icons/Nodejs.svg)](#)
-[![C# Badge](/assets/icons/c#.svg)](#)
+[![C# Badge](/assets/icons/c%23.svg)](#)
 
 <br/>
 
